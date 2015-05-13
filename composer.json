@@ -19,5 +19,6 @@
 		"psr-4": {
 			"Unk\\": "src/"
 		}
-	}
+	},
+	"minimum-stability": "dev"
 }
